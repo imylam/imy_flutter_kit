@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   imy_bloc:
     git:
-      url: git@bitbucket.org:imylam/imy_bloc.git
+      url: https://imylam@bitbucket.org/imylam/imy_bloc.git
 
 dev_dependencies:
   flutter_test:
